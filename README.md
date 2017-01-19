@@ -22,4 +22,4 @@ Customize a child theme of the `BlankSlate` WordPress theme to your tastes. Deli
 * Customize archive and category pages
 * Install the `BuddyPress` plugin and customize the BuddyPress-specific CSS
 * If you know how to use github, clone this repo as your child theme and send a PR 
-* Use of SCSS, es6, webpack, and bpm for your asset build process
+* Use of `SCSS`, `es6`, `webpack`, and `npm` for your asset build process
