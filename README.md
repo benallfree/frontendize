@@ -12,6 +12,7 @@ Customize a child theme of the `BlankSlate` WordPress theme to your tastes. Deli
 * Install the [BlankSlate](https://wordpress.org/themes/blankslate/) theme
 * Create a child theme
 * Style it to your tastes
+* Make sure it is mobile responsive. You can use Bootstrap, Foudnation, something else, or roll your own
 * Send a pull zip file to me (ben@bytion.co) when you're done or when it's been 2 hours
 
 ## Bonus points
