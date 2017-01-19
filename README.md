@@ -20,5 +20,5 @@ Customize a child theme of the `BlankSlate` WordPress theme to your tastes. Deli
 * Customize comment boxes and threads
 * Customize widgets and sidebars
 * Customize archive and category pages
-* Install the `BuddyPress` plugin and customize for it
+* Install the `BuddyPress` plugin and customize the BuddyPress-specific CSS
 * If you know how to use github, clone this repo as your child theme and send a PR 
