@@ -15,11 +15,11 @@ Customize a child theme of the `BlankSlate` WordPress theme to your tastes. Deli
 * Make sure it is mobile responsive. You can use Bootstrap, Foudnation, something else, or roll your own
 * Send a zip file to me (ben@bytion.co) when you're done or when it's been 2 hours
 
-## Bonus points
+## Bonus points (in order of WOW factor)
 
+* Use of `SCSS`, `es6`, `webpack`, and `npm` for your asset build process
+* If you know how to use github, clone this repo as your child theme and send a PR 
+* Install the `BuddyPress` plugin and customize the BuddyPress-specific CSS
 * Customize comment boxes and threads
 * Customize widgets and sidebars
 * Customize archive and category pages
-* Install the `BuddyPress` plugin and customize the BuddyPress-specific CSS
-* If you know how to use github, clone this repo as your child theme and send a PR 
-* Use of `SCSS`, `es6`, `webpack`, and `npm` for your asset build process
