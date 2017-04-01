@@ -1,0 +1,17 @@
+# track this file .gitignore (i.e. do NOT ignore it)
+!.gitignore
+ 
+# ignore log files
+*.log
+
+# ignore DS_Store
+*.DS_Store
+
+# track readme.md in the root (i.e. do NOT ignore it)
+!readme.md
+
+# ignore sass-cache files
+.sass-cache/
+
+# ignore node/grunt dependency directories
+node_modules/
