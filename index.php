@@ -10,7 +10,7 @@
 <section id="section-2">
 	<div class="wrapper">
 		<h3><i class="fa fa-cloud-download" aria-hidden="true"></i> Download the Alp... err, Beta</h3>
-		<a class="button" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i> <i class="fa fa-windows" aria-hidden="true"></i> For macOS &amp; Windows</a>
+		<a class="button" href="http://slack.com" target="_blank"><i class="fa fa-apple" aria-hidden="true"></i> <i class="fa fa-windows" aria-hidden="true"></i> For macOS &amp; Windows</a>
 		<small>
 			<strong>Requires</strong>: Windows 11 or macOS for Workgroups 3.11.  1TB of free disk space needed.<br /><br />
 			Seriously!  We have created an app that works on both platforms -- with one installer!</small>
